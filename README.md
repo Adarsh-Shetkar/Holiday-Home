@@ -3,10 +3,10 @@
 <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(767).png" alt="website image">
 
 <div>
-  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(768).png" width=49.5% height="320px">
-  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(771).png" width=49.5% height="320px">
-  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(770).png" width=49.5% height="320px">
-  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(772).png" width=49.5% height="320px">
+  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(768).png" >
+  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(771).png">
+  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(770).png">
+  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(772).png">
 </div>
 
 
@@ -34,7 +34,6 @@ To learn React, check out the [React documentation.](https://reactjs.org/)
 
 
 ## API Reference
-<ul>
-<li>Map API from [TomTom](https://developer.tomtom.com/)
+Map API from [TomTom](https://developer.tomtom.com/)
 
-<li>Image API from [Cloudinary](https://cloudinary.com/)
+Image API from [Cloudinary](https://cloudinary.com/)
