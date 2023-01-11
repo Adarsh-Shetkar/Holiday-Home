@@ -1,5 +1,13 @@
 # Casa-De-Vacaciones (holiday-home)
 
+<img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(767).png" alt="website image">
+
+<div>
+  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(768).png" width=49.5% height="320px">
+  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(771).png" width=49.5% height="320px">
+  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(770).png" width=49.5% height="320px">
+  <img src="https://github.com/Adarsh-Shetkar/casa-de-vacaciones-holiday-home/blob/main/frontend/src/assets/img/Screenshot%20(772).png" width=49.5% height="320px">
+</div>
 
 
 ## Abstract
@@ -12,6 +20,8 @@ In the project directory, you can run:
 ### `npm start`
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
+### `npm run dev`
+Starts the backend services.
 ### `npm test`
 Launches the test runner in the interactive watch mode.
 
@@ -24,5 +34,7 @@ To learn React, check out the [React documentation.](https://reactjs.org/)
 
 
 ## API Reference
+<ul>
+<li>Map API from [TomTom](https://developer.tomtom.com/)
 
-APIs by [RapidApi](https://rapidapi.com.)
+<li>Image API from [Cloudinary](https://cloudinary.com/)
